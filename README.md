@@ -9,5 +9,4 @@
 			<div>Please, make sure to find me and even DM me on Twitter @alexsideris_</div>
 			<br>
 			<div>Much love, Alex <3</div>
-
 			</html>
