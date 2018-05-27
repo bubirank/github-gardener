@@ -1,5 +1,5 @@
 
-			<html>
+			```html
 			<div>You are currently using GitHub Gardener's Free Tier!</div>
 			<br>
 			<div>Now, all you have to do is wait for it to, slowly but surely, turn green..!</div>
@@ -9,4 +9,4 @@
 			<div>Please, make sure to find me and even DM me on Twitter @alexsideris_</div>
 			<br>
 			<div>Much love, Alex <3</div>
-			</html>
+			```
