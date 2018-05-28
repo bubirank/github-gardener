@@ -7,7 +7,7 @@
 
 			It costs 5$/mo. This is the first time I am asking for money for one of my projects, and although it feels weird, I know it is a necessary step towards achieving my dream of becoming an indie maker
 
-			DMs are open so feel free to contact me on Twitter @alexsideris_ 
+			Please, make sure to find me and even DM me on Twitter @alexsideris_ or in the chatbox at githubgardener.xyz 
 
 			You can upgrade to Stealth here: www.githubgardener.xyz
 
